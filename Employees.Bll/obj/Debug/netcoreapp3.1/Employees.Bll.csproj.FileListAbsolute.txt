@@ -1,0 +1,13 @@
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Bll.deps.json
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Bll.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Bll.pdb
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Dal.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\bin\Debug\netcoreapp3.1\Employees.Dal.pdb
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\obj\Debug\netcoreapp3.1\Employees.Bll.csprojAssemblyReference.cache
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\obj\Debug\netcoreapp3.1\Employees.Bll.AssemblyInfoInputs.cache
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\obj\Debug\netcoreapp3.1\Employees.Bll.AssemblyInfo.cs
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\obj\Debug\netcoreapp3.1\Employees.Bll.csproj.CopyComplete
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\obj\Debug\netcoreapp3.1\Employees.Bll.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Bll\obj\Debug\netcoreapp3.1\Employees.Bll.pdb

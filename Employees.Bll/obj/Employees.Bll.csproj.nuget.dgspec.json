@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Bll\\Employees.Bll.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Bll\\Employees.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Bll\\Employees.Bll.csproj",
+        "projectName": "Employees.Bll",
+        "projectPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Bll\\Employees.Bll.csproj",
+        "packagesPath": "C:\\Users\\jpodgap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpodgap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj": {
+                "projectPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj"
+              },
+              "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Dal\\Employees.Dal.csproj": {
+                "projectPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Dal\\Employees.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj",
+        "projectName": "Employees.Core",
+        "projectPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj",
+        "packagesPath": "C:\\Users\\jpodgap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpodgap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Dal\\Employees.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Dal\\Employees.Dal.csproj",
+        "projectName": "Employees.Dal",
+        "projectPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Dal\\Employees.Dal.csproj",
+        "packagesPath": "C:\\Users\\jpodgap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jpodgap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj": {
+                "projectPath": "C:\\Users\\jpodgap\\source\\repos\\ApiEmployeesTest\\Employees.Core\\Employees.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Net.Http.Formatting.Extension": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

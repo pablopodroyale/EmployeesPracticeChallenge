@@ -1,0 +1,11 @@
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\bin\Debug\netcoreapp3.1\Employees.Dal.deps.json
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\bin\Debug\netcoreapp3.1\Employees.Dal.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\bin\Debug\netcoreapp3.1\Employees.Dal.pdb
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\obj\Debug\netcoreapp3.1\Employees.Dal.csprojAssemblyReference.cache
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\obj\Debug\netcoreapp3.1\Employees.Dal.AssemblyInfoInputs.cache
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\obj\Debug\netcoreapp3.1\Employees.Dal.AssemblyInfo.cs
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\obj\Debug\netcoreapp3.1\Employees.Dal.csproj.CopyComplete
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\obj\Debug\netcoreapp3.1\Employees.Dal.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Dal\obj\Debug\netcoreapp3.1\Employees.Dal.pdb

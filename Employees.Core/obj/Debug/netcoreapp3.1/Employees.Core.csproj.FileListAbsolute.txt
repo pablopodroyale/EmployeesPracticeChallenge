@@ -1,0 +1,8 @@
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.deps.json
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.csprojAssemblyReference.cache
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.AssemblyInfoInputs.cache
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.AssemblyInfo.cs
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\jpodgap\source\repos\ApiEmployeesTest\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.pdb
